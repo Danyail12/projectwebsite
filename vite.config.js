@@ -6,7 +6,10 @@ export default defineConfig({
   plugins: [react()],
   build: {
     rollupOptions: {
-      external: ['module-to-externalize']
+      external: ['module-to-externalize'],
+      build: {
+        outDir: 'dist',
+      },
     }
   }
 })
