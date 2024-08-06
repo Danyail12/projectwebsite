@@ -1,0 +1,26 @@
+/* Faq.css
+
+body {
+  font-family: 'Arial', sans-serif;
+}
+
+.container {
+  margin-top: 50px;
+}
+
+.row {
+  margin-bottom: 20px;
+}
+
+.accordion-button {
+  font-size: 1.25rem;
+}
+
+.accordion-button:not(.collapsed) {
+  color: #fff;
+  background-color: #007bff;
+}
+
+.accordion-button:focus {
+  box-shadow: none;
+} */

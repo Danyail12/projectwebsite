@@ -1,0 +1,59 @@
+/* AboutSecond.css */
+
+body {
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .benefit {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .benefit img.icon {
+    margin-right: 10px;
+  }
+  
+  .benefit h5 {
+    margin: 0;
+    font-size: 1.25rem;
+  }
+  
+  .benefit p {
+    margin: 0;
+  }
+
+
+/* Mobile devices (up to 576px) */
+@media (max-width: 576px) {
+  .benefits-list {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .benefit {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .benefit img {
+    margin-bottom: 1rem; /* Space between image and text */
+  }
+
+  .h-25 {
+    height: 50px; /* Increase icon size for better visibility */
+  }
+
+  .mr-2 {
+    margin-right: 0;
+  }
+
+  .benefit div h3, .benefit div p {
+    margin: 0; /* Remove margins to tighten spacing */
+  }
+
+  .benefit + .benefit {
+    margin-top: 2rem; /* Space between benefits */
+  }
+}

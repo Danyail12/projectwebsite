@@ -1,0 +1,49 @@
+/* Media Query for Tablet Screens and Below */
+@media (max-width: 768px) {
+  .offer-icon {
+    transform: translate(-50%, 88%);
+  }
+}
+
+/* Media Query for Mobile Screens */
+@media (max-width: 480px) {
+  .offer-icon {
+    transform: translate(-50%, 38%) !important;
+  }
+}
+
+/* Media Query for Small Mobile Screens */
+@media (max-width: 360px) {
+  .offer-icon {
+    transform: translate(-50%, 68%);
+  }
+}
+/* Media Query for Tablet Screens and Below */
+@media (max-width: 768px) {
+  .offer-icon1 {
+    transform: translate(-50%, 88%) !important;
+  }
+}
+
+/* Media Query for Mobile Screens */
+@media (max-width: 480px) {
+  .offer-icon1 {
+    transform: translate(-50%, -68%) !important;
+  }
+}
+
+/* Media Query for Small Mobile Screens */
+@media (max-width: 360px) {
+  .offer-icon1 {
+    transform: translate(-50%, 68%) !important;
+  }
+}
+
+.offer-icon1{
+  /* width: 25% !important; */
+  height: 25% !important; 
+position: absolute;
+ top: 50%;
+  left: 50%; 
+  transform: translate(-50%, 0%);
+}
