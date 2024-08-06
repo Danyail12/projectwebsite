@@ -28,6 +28,8 @@
 /* Media Query for Mobile Screens */
 @media (max-width: 480px) {
   .offer-icon1 {
+
+     
     transform: translate(-50%, -68%) !important;
   }
 }
@@ -40,10 +42,10 @@
 }
 
 .offer-icon1{
-  /* width: 25% !important; */
-  height: 25% !important; 
+  width: 22% !important;
+  height: 15% !important; 
 position: absolute;
  top: 50%;
-  left: 50%; 
-  transform: translate(-50%, 0%);
+  left: 55%; 
+  transform: translate(-50%, -20%);
 }

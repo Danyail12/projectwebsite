@@ -200,7 +200,7 @@ const Service = () => {
                 <div className="card">
                     <div className="card-body">
                         <img src="lap (1).png" alt="" className='img-fluid'/>
-                            <a href="#" className="btn btn-primary offer-icon1 btn-sm h-0 w-25 d-flex place-content-center align-items-center  rounded-circle " style={{position: "absolute", top: "50%", left: "50%", transform: "translate(-50%, 0%)"}}>
+                            <a href="#" className="btn btn-primary offer-icon1 btn-sm  d-flex place-content-center align-items-center  rounded-circle " >
                                 10 August
                             </a>
                             <h4 className='card-title mt-5 '>Maecenas Tempus Dellus Eget Condim</h4>
@@ -212,7 +212,7 @@ const Service = () => {
                 <div className="card">
                     <div className="card-body">
                         <img src="lap (2).png" alt="" className='img-fluid'/>
-                            <a href="#" className="btn btn-primary offer-icon1 btn-md h-0 w-25 d-flex place-content-center align-items-center  rounded-circle  ">
+                            <a href="#" className="btn btn-primary offer-icon1 btn-md  d-flex place-content-center align-items-center  rounded-circle  ">
                                 20 June
                             </a>
                             <h4 className='card-title mt-5 '>Maecenas Tempus Dellus Eget Condim</h4>
@@ -224,7 +224,7 @@ const Service = () => {
                 <div className="card">
                     <div className="card-body">
                         <img src="lap (3).png" alt="" className='img-fluid'/>
-                            <a href="#" className="btn btn-primary offer-icon1 btn-md h-0 w-25 d-flex place-content-center align-items-center  rounded-circle " style={{position: "absolute", top: "50%", left: "50%", transform: "translate(-50%, -7%)"}}>
+                            <a href="#" className="btn btn-primary offer-icon1 btn-md  d-flex place-content-center align-items-center  rounded-circle " >
                                02 April
                                                            </a>
                                                            <h4 className='card-title mt-5 '>Maecenas Tempus Dellus Eget Condim</h4>
