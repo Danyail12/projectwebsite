@@ -16,7 +16,7 @@ export default function AboutSecond() {
           <div className="col my-5 ">
             <div className="me-2 ms-2 d-flex flex-column align-items-center justify-content-center mt-5">
               <h3 className="text-primary">About Us</h3>
-              <h1>We execute our ideas from the start to finish</h1>
+              <h1 className='mt-3'>We execute our ideas from the start to finish</h1>
               <p>Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus.</p>
               <h6>Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc.</h6>
             </div>

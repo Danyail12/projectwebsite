@@ -6,19 +6,19 @@ function HeroSection() {
     <>
 <div className='p-5' style={{backgroundImage: "url(./2.png)", backgroundColor: "#0A2540", backgroundSize: "cover",color: "white"}}>
 
-    <div class="container" >
+    <div class="container mt-5" >
   <div class="row">
-    <div class="col py-5 mt-5 mx-auto ">
+    <div class="col mt-5 ">
       
 
       <h1>Creating a better IT solutions</h1>
       <p>Dcidunt eget semper nec quam. Sed hendrerit morbi ac felis. Nunc egestas augue pellentesque</p>
-      <button class="btn btn-primary ">Get Started</button>
+      <button class="btn btn-primary bg-white ">Get Started</button>
      
       
     </div>
     <div class="col">
-    <div class= " py-5 mt-5">
+    <div class= " ">
 
      <img src="Group.png" alt="" class="img-fluid"  />
 
