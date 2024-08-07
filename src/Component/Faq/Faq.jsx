@@ -5,19 +5,19 @@ const Faq = () => {
   return (
     <div className="container p-5 mt-5">
       <div className="row">
-        <div className="col mx-5 mt-5">
+        <div className="col mx-auto mt-5">
           <p>FAQ</p>
           <h1>Know more about our IT solution</h1>
           <p>Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque.</p>
         </div>
         <div className="col">
-          <div className="mt-5 mx-5">
+          <div className="mt-5 mx-auto">
             <img src="Group 5139.png" alt="" className="img-fluid" />
           </div>
         </div>
       </div>
       <div className="row mt-4">
-        <div className="col mx-5">
+        <div className="col mx-auto">
           <div className="accordion" id="faqAccordion">
             <div className="accordion-item">
               <h2 className="accordion-header" id="headingOne">

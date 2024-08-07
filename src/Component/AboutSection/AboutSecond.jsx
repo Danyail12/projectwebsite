@@ -9,11 +9,11 @@ export default function AboutSecond() {
       <div className="container">
         <div className="row">
           <div className="col">
-            <div className="me-5 ms-5 my-5 py-5   ">
+            <div className="me-5 ms-5  py-5   ">
               <img src="Group 11.png" alt="" className="img-fluid " />
             </div>
           </div>
-          <div className="col my-5 ">
+          <div className="col ">
             <div className="me-2 ms-2 d-flex flex-column align-items-center justify-content-center mt-5">
               <h3 className="text-primary">About Us</h3>
               <h1 className='mt-3'>We execute our ideas from the start to finish</h1>

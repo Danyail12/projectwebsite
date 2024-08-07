@@ -39,8 +39,8 @@ const Service = () => {
                 <div className="card">
                     <div className="card-body">
                         <img src="service-dataicon.png" alt="" className='img-fluid w-50' />
-                        <h5 className="card-title">Data Analysis</h5>
-                        <p className="card-text">Dursus mal suada faci lisis lorem ipsum dolarorit more ame ion consectetur elit vesti at bulum nec.</p>
+                        <h5 className="card-title mx-auto">Data Analysis</h5>
+                        <p className="card-text mx-auto">Dursus mal suada faci lisis lorem ipsum dolarorit more ame ion consectetur elit vesti at bulum nec.</p>
                            
                           
                     </div>
@@ -56,8 +56,8 @@ const Service = () => {
                 <div className="card">
                     <div className="card-body">
                         <img src="service-designicon.png" alt="" className='img-fluid w-50' />
-                        <h5 className="card-title">Data Analysis</h5>
-                        <p className="card-text">Dursus mal suada faci lisis lorem ipsum dolarorit more ame ion consectetur elit vesti at bulum nec.</p>
+                        <h5 className="card-title mx-auto">Data Analysis</h5>
+                        <p className="card-text mx-auto">Dursus mal suada faci lisis lorem ipsum dolarorit more ame ion consectetur elit vesti at bulum nec.</p>
                     </div>
                     <div className="d-flex flex-end justify-content-end align-items-end ">
 
@@ -71,8 +71,8 @@ const Service = () => {
                 <div className="card">
                     <div className="card-body">
                         <img src="service-marketicon.png" alt="" className='img-fluid w-50' />
-                        <h5 className="card-title">Data Analysis</h5>
-                        <p className="card-text">Dursus mal suada faci lisis lorem ipsum dolarorit more ame ion consectetur elit vesti at bulum nec.</p>
+                        <h5 className="card-title mx-auto">Data Analysis</h5>
+                        <p className="card-text mx-auto">Dursus mal suada faci lisis lorem ipsum dolarorit more ame ion consectetur elit vesti at bulum nec.</p>
                     </div>
                             <div className="d-flex flex-end justify-content-end align-items-end ">
 
@@ -86,8 +86,8 @@ const Service = () => {
                 <div className="card">
                     <div className="card-body">
                         <img src="service-producticon.png" alt="" className='img-fluid w-50' />
-                        <h5 className="card-title">Data Analysis</h5>
-                        <p className="card-text">Dursus mal suada faci lisis lorem ipsum dolarorit more ame ion consectetur elit vesti at bulum nec.</p>
+                        <h5 className="card-title mx-auto">Data Analysis</h5>
+                        <p className="card-text mx-auto">Dursus mal suada faci lisis lorem ipsum dolarorit more ame ion consectetur elit vesti at bulum nec.</p>
                     </div>
                     <div className="d-flex flex-end justify-content-end align-items-end ">
 
@@ -103,7 +103,7 @@ const Service = () => {
     </div>
     </div>
 
-    <div className="p-5" style={{backgroundImage: "url(./bg.png)", color: "black"}}>
+    <div className="" style={{backgroundImage: "url(./bg.png)", color: "black"}}>
     <div className="container">
         <div className="row">
             <div className="col">
@@ -125,7 +125,7 @@ const Service = () => {
               <a
                 href="#"
                 className="btn btn-primary btn-md rounded-circle rounded offer-icon"
-                style={{ position: "absolute", top: "50%", left: "50%", transform: "translate(-50%, 108%)" }}
+                // style={{ position: "absolute", top: "50%", left: "50%", transform: "translate(-50%, 108%)" }}
               >
                 <img src="offer-icon1.png" alt="" className="img-fluid w-75" />
               </a>
@@ -140,7 +140,6 @@ const Service = () => {
               <a
                 href="#"
                 className="btn btn-primary btn-g rounded-circle rounded offer-icon"
-                style={{ position: "absolute", top: "50%", left: "50%", transform: "translate(-50%, 78%)" }}
               >
                 <img src="offer-icon2.png" alt="" className="img-fluid w-75" />
               </a>
@@ -155,7 +154,6 @@ const Service = () => {
               <a
                 href="#"
                 className="btn btn-lg btn-primary rounded-circle rounded offer-icon"
-                style={{ position: "absolute", top: "50%", left: "50%", transform: "translate(-50%, 108%)" }}
               >
                 <img src="offer-icon3.png" alt="" className="img-fluid w-75 " />
               </a>
@@ -166,7 +164,7 @@ const Service = () => {
       </div>
     </div>    </div>
     </div>
-    <div className='p-5' style={{backgroundImage: "url(./serviceBan.png)"}}>
+    <div className='py-5 ' style={{backgroundImage: "url(./serviceBan.png)"}}>
 
     <div className="container">
         <div className="row">
@@ -197,8 +195,8 @@ const Service = () => {
     <div className="container mt-5">
         <div className="row mt-5">
             <div className="col-md-4">
-                <div className="card">
-                    <div className="card-body">
+                <div className="card ">
+                    <div className="card-body ">
                         <img src="lap (1).png" alt="" className='img-fluid'/>
                             <a href="#" className="btn btn-primary offer-icon1 btn-sm  d-flex place-content-center align-items-center  rounded-circle " >
                                 10 August

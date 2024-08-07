@@ -13,7 +13,7 @@ function HeroSection() {
 
       <h1>Creating a better IT solutions</h1>
       <p>Dcidunt eget semper nec quam. Sed hendrerit morbi ac felis. Nunc egestas augue pellentesque</p>
-      <button class="btn btn-primary text-dark bg-white ">Get Started</button>
+      <button class="btn btn-primary text-dark bg-white my-3 ">Get Started</button>
      
       
     </div>

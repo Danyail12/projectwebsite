@@ -1,45 +1,9 @@
 /* Media Query for Tablet Screens and Below */
-@media (max-width: 768px) {
-  .offer-icon {
-    transform: translate(-50%, 88%);
-  }
-}
+
 
 /* Media Query for Mobile Screens */
-@media (max-width: 480px) {
-  .offer-icon {
-    transform: translate(-50%, 38%) !important;
-  }
-}
 
-/* Media Query for Small Mobile Screens */
-@media (max-width: 360px) {
-  .offer-icon {
-    transform: translate(-50%, 68%);
-  }
-}
 /* Media Query for Tablet Screens and Below */
-@media (max-width: 768px) {
-  .offer-icon1 {
-    transform: translate(-50%, 88%) !important;
-  }
-}
-
-/* Media Query for Mobile Screens */
-@media (max-width: 480px) {
-  .offer-icon1 {
-
-     
-    transform: translate(-50%, -68%) !important;
-  }
-}
-
-/* Media Query for Small Mobile Screens */
-@media (max-width: 360px) {
-  .offer-icon1 {
-    transform: translate(-50%, 68%) !important;
-  }
-}
 
 .offer-icon1{
   width: 22% !important;
@@ -49,3 +13,70 @@ position: absolute;
   left: 55%; 
   transform: translate(-50%, -20%);
 }
+@media (max-width: 768px) {
+  .offer-icon1 {
+    width: 34% !important;
+    height: 15% !important;
+    transform: translate(-50%, -98%) !important;
+    /* transform: translate(-50%, 238%) !important; */
+  }
+}
+@media (max-width: 1240px) {
+  .offer-icon1 {
+    width: 34% !important;
+    height: 15% !important;
+    transform: translate(-50%, -88%) !important;
+  }
+}
+
+/* Media Query for Mobile Screens */
+@media (max-width: 480px) {
+  .offer-icon1 {
+
+    width: 24% !important;
+    height: 15% !important;
+    /* transform: translate(-50%, -88%) !important; */
+    transform: translate(-50%, -58%) !important;
+  }
+}
+
+/* Media Query for Small Mobile Screens */
+@media (max-width: 360px) {
+  .offer-icon1 {
+    width: 30% !important;
+    height: 15% !important;
+    /* transform: translate(-50%, -88%) !important; */
+    /* transform: translate(-50%, -28%) !important; */
+    transform: translate(-50%, -108%) !important;
+  }
+}
+
+.offer-icon{
+  
+  position: absolute;
+   top: 50%;
+    left: 50%;
+     transform: translate(-50%, 108%);
+}
+     @media (max-width: 1240px) {
+      .offer-icon {
+        transform: translate(-50%, -2%) !important;
+      }
+    }
+    @media (max-width: 768px) {
+      .offer-icon {
+        transform: translate(-50%, -5%) !important;
+      }
+    }
+    @media (max-width: 480px) {
+      .offer-icon {
+        transform: translate(-50%, 129%) !important;
+      }
+    }
+    
+    /* Media Query for Small Mobile Screens */
+    @media (max-width: 360px) {
+      .offer-icon {
+        transform: translate(-50%, 68%) !important;
+      }
+    }
